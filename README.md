@@ -1,4 +1,8 @@
+## Description
+
 A Burger Builder app using React, with a functioning database using google Firebase.
+
+##
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
